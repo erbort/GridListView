@@ -1,1 +1,1 @@
-include ':app', ':gridadapter'
+include ':app'
