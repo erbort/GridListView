@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GridListView.iml" filepath="$PROJECT_DIR$/GridListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gridadapter/gridadapter.iml" filepath="$PROJECT_DIR$/gridadapter/gridadapter.iml" />
     </modules>
   </component>
 </project>
